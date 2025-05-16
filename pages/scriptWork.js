@@ -1,28 +1,28 @@
 const projets = [
-    { titre: "Survey Form", categorie: "WebDesign", description: "Survey Form sur FreeCodeCamp", image: "../images/survey.jpg",
+    { titre: "Survey Form", categorie: "WebDesign", description: "Survey Form sur FreeCodeCamp", image: "images/survey.jpg",
         lien: "https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form" },
-    { titre: "Tribute Page", categorie: "WebDesign", description: "Tribute Page sur FreeCodeCamp", image: "../images/tribute.jpg",
+    { titre: "Tribute Page", categorie: "WebDesign", description: "Tribute Page sur FreeCodeCamp", image: "images/tribute.jpg",
         lien: "https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page" },
-    { titre: "Technical Documentation", categorie: "WebDesign", description: "Technical Documentation sur FreeCodeCamp", image: "../images/doc.jpg",
+    { titre: "Technical Documentation", categorie: "WebDesign", description: "Technical Documentation sur FreeCodeCamp", image: "images/doc.jpg",
         lien: "https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page"
     },
-    { titre: "Product Landing", categorie: "WebDesign", description: "Product Landing sur FreeCodeCamp", image:"../images/product.jpg",
+    { titre: "Product Landing", categorie: "WebDesign", description: "Product Landing sur FreeCodeCamp", image:"images/product.jpg",
         lien: "https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page"
      },
-    {titre: "Blog", categorie: "WebDesign", description: "Blog project DesCodeuses", image:"../images/blog.jpg",
-        lien: "../WebDesign/Blog/pages/index.html"
+    {titre: "Blog", categorie: "WebDesign", description: "Blog project DesCodeuses", image:"images/blog.jpg",
+        lien: "WebDesign/Blog/pages/index.html"
     },
-    {titre: "Mode", categorie: "WebDesign", description: "Mode project DesCodeuses", image:"../images/mode.jpg",
-        lien:"../WebDesign/Mode/pages/index.html"
+    {titre: "Mode", categorie: "WebDesign", description: "Mode project DesCodeuses", image:"images/mode.jpg",
+        lien:"WebDesign/Mode/pages/index.html"
     },
-    {titre: "JS Exercices", categorie: "js", description: "Exercices DesCodeuses", image:"../images/js.png",
-        lien:"..//js/projetChoix.js"},
-    {titre: "JS Exercices", categorie: "js", description: "Exercices DesCodeuses", image:"../images/js.png",
-            lien:"..//js/script2TP.js"},
-    {titre: "JS Exercices", categorie: "js", description: "Exercices DesCodeuses", image:"../images/js.png",
-            lien:"..//js/script3TP.js"},
-    {titre: "JS Exercices", categorie: "js", description: "Exercices DesCodeuses", image:"../images/js.png",
-            lien:"..//js/TPIndiv.js"},
+    {titre: "JS Exercices", categorie: "js", description: "Exercices DesCodeuses", image:"images/js.png",
+        lien:"js/projetChoix.js"},
+    {titre: "JS Exercices", categorie: "js", description: "Exercices DesCodeuses", image:"images/js.png",
+            lien:"js/script2TP.js"},
+    {titre: "JS Exercices", categorie: "js", description: "Exercices DesCodeuses", image:"images/js.png",
+            lien:"js/script3TP.js"},
+    {titre: "JS Exercices", categorie: "js", description: "Exercices DesCodeuses", image:"images/js.png",
+            lien:"js/TPIndiv.js"},
 
 ];
 

@@ -14,7 +14,7 @@ function ajouterIndex(){
     aCollage.setAttribute('href', "work.html");
     collage.appendChild(aCollage);
     let collagePhoto = document.createElement('img');
-    collagePhoto.setAttribute('src',"../images/projectsGif.gif");
+    collagePhoto.setAttribute('src',"images/projectsGif.gif");
     aCollage.appendChild(collagePhoto);
 }
 ajouterIndex();
